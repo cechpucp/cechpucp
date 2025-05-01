@@ -3,6 +3,12 @@ const baseURL = "/cechpucp";
 
 const recentPosts = [
     {
+    title: "Boletín CECH N°1",
+    date: "Agosto 01, 2021",
+    img: baseURL + "/publicaciones/boletines/img/boletin-1.png",
+    link: baseURL + "/publicaciones/boletines/"
+    },
+    {
       title: "Preludio a la Revolución",
       date: "Junio 09, 2023",
       img: baseURL + "/publicaciones/ensayos/Prelude-to-Revolution/img/ensayo-1.png",
@@ -13,12 +19,6 @@ const recentPosts = [
       date: "Marzo 14, 2025",
       img: baseURL + "/eventos/nueva-convocatoria-cech-economia-2025-1/img/BANNER-CONVOCATORIA-2025-1.jpg",
       link: baseURL + "/eventos/nueva-convocatoria-cech-economia-2025-1/"
-    },
-    {
-      title: "Boletín CECH N°1",
-      date: "Agosto 01, 2021",
-      img: baseURL + "/publicaciones/boletines/img/boletin-1.png",
-      link: baseURL + "/publicaciones/boletines/"
     },
     // Agrega más post aquí
   ];
