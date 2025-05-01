@@ -4,7 +4,7 @@ const baseURL = "/cechpucp";
 const recentPosts = [
     {
       title: "Boletín CECH - Edición N°1",
-      date: "Agosto 01, 2021",
+      date: "August 01, 2021",
       img: baseURL + "/publicaciones/boletines/img/boletin-1.png",
       link: baseURL + "/publicaciones/boletines/"
     },
@@ -26,21 +26,15 @@ const recentPosts = [
   function renderRecentPosts(containerId) {
     const container = document.getElementById(containerId);
     if (!container) return;
-    
     recentPosts.forEach(post => {
-      const fecha = new Date(post.date);
-      const options = { year: 'numeric', month: 'long', day: 'numeric' };
-      const fechaFormateada = fecha.toLocaleDateString('es-ES', options);
-  
-      const postHTML = `
+      const postHTML = 
         <div class="post-item">
           <img src="${post.img}" alt="" class="flex-shrink-0">
           <div>
             <h4><a href="${post.link}">${post.title}</a></h4>
-            <time datetime="${post.date}">${fechaFormateada}</time>
+            <time datetime="${post.date}">${new Date(post.date).toDateString()}</time>
           </div>
-        </div>`;
-      
+        </div>;
       container.innerHTML += postHTML;
     });
   }
