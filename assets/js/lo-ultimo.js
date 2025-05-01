@@ -2,8 +2,8 @@ const recentPosts = [
     {
       title: "Preludio a la Revolución",
       date: "Junio 09, 2023",
-      img: "../publicaciones/ensayos/img/ensayo-1.png",
-      link: "../publicaciones/ensayos/Prelude-to-Revolution/"
+      img: "../../../publicaciones/ensayos/img/ensayo-1.png",
+      link: "../../../publicaciones/ensayos/Prelude-to-Revolution/"
     },
     {
       title: "La Ruta de la Seda 2.0: ¿espejismo o oportunidad?",
