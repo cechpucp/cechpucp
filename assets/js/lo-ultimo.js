@@ -1,21 +1,24 @@
+// Define la ruta base del proyecto (ajusta esto si cambia el nombre del repo)
+const baseURL = "/cechpucp"; 
+
 const recentPosts = [
     {
       title: "Preludio a la Revolución",
       date: "Junio 09, 2023",
-      img: "../../../publicaciones/ensayos/Prelude-to-Revolution/img/ensayo-1.png",
-      link: "../../../publicaciones/ensayos/Prelude-to-Revolution/"
+      img: baseURL + "/publicaciones/ensayos/Prelude-to-Revolution/img/ensayo-1.png",
+      link: baseURL + "/publicaciones/ensayos/Prelude-to-Revolution/"
     },
     {
       title: "Convocatoria CECH 2025-1",
       date: "Marzo 14, 2025",
-      img: "../../../eventos/nueva-convocatoria-cech-economia-2025-1/img/BANNER-CONVOCATORIA-2025-1.jpg",
-      link: "../../../eventos/nueva-convocatoria-cech-economia-2025-1/"
+      img: baseURL + "/eventos/nueva-convocatoria-cech-economia-2025-1/img/BANNER-CONVOCATORIA-2025-1.jpg",
+      link: baseURL + "/eventos/nueva-convocatoria-cech-economia-2025-1/"
     },
     {
       title: "Boletín CECH N°1",
       date: "Agosto 01, 2021",
-      img: "../../../publicaciones/boletines/img/boletin-1.png",
-      link: "../../../publicaciones/boletines/"
+      img: baseURL + "/publicaciones/boletines/img/boletin-1.png",
+      link: baseURL + "/publicaciones/boletines/"
     },
     // Agrega más post aquí
   ];
