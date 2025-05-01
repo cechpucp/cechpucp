@@ -11,6 +11,12 @@ const recentPosts = [
       img: "../../../eventos/nueva-convocatoria-cech-economia-2025-1/img/BANNER-CONVOCATORIA-2025-1.jpg",
       link: "../../../eventos/nueva-convocatoria-cech-economia-2025-1/"
     },
+    {
+      title: "Boletín CECH N°1",
+      date: "Agosto 01, 2021",
+      img: "../../../publicaciones/boletines/img/boletin-1.png",
+      link: "../../../publicaciones/boletines/"
+    },
     // Agrega más post aquí
   ];
   
