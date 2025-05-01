@@ -2,14 +2,14 @@ const recentPosts = [
     {
       title: "Preludio a la Revolución",
       date: "Junio 09, 2023",
-      img: "../../../publicaciones/ensayos/img/ensayo-1.png",
+      img: "../../../publicaciones/ensayos/Prelude-to-Revolution/img/ensayo-1.png",
       link: "../../../publicaciones/ensayos/Prelude-to-Revolution/"
     },
     {
-      title: "La Ruta de la Seda 2.0: ¿espejismo o oportunidad?",
-      date: "2025-04-15",
-      img: "assets/img/blog/seda.jpg",
-      link: "posts/ruta-seda.html"
+      title: "Convocatoria CECH 2025-1",
+      date: "Marzo 14, 2025",
+      img: "../../../eventos/nueva-convocatoria-cech-economia/img/BANNER-CONVOCATORIA-2025-1.jpg",
+      link: "../../../eventos/nueva-convocatoria-cech-economia/"
     },
     // Agrega más post aquí
   ];
