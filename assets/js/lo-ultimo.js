@@ -8,8 +8,8 @@ const recentPosts = [
     {
       title: "Convocatoria CECH 2025-1",
       date: "Marzo 14, 2025",
-      img: "../../../eventos/nueva-convocatoria-cech-economia/img/BANNER-CONVOCATORIA-2025-1.jpg",
-      link: "../../../eventos/nueva-convocatoria-cech-economia/"
+      img: "../../../eventos/nueva-convocatoria-cech-economia-2025-1/img/BANNER-CONVOCATORIA-2025-1.jpg",
+      link: "../../../eventos/nueva-convocatoria-cech-economia-2025-1/"
     },
     // Agrega más post aquí
   ];
