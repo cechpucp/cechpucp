@@ -11,14 +11,26 @@ const recentPosts = [
     {
       title: "Preludio a la Revolución",
       date: "Junio 09, 2023",
-      img: baseURL + "/publicaciones/ensayos/Prelude-to-Revolution/img/ensayo-1.png",
-      link: baseURL + "/publicaciones/ensayos/Prelude-to-Revolution/"
+      img: baseURL + "/publicaciones/reseñas/Prelude-to-Revolution/img/ensayo-1.png",
+      link: baseURL + "/publicaciones/reseñas/Prelude-to-Revolution/"
     },
     {
       title: "Boletín CECH - Edición N°1",
       date: "August 01, 2021",
       img: baseURL + "/publicaciones/boletines/img/boletin-1.png",
       link: baseURL + "/publicaciones/boletines/"
+    },
+    {
+      title: "How China became Capitalist",
+      date: "June 09, 2023",
+      img: baseURL + "/publicaciones/reseñas/Como-china-se-volvio-capitalista/img/reseña1.png",
+      link: baseURL + "/publicaciones/reseñas/Como-china-se-volvio-capitalista/"
+    },
+    {
+      title: "Impacto de X sobre y: Un enfóque econométrico",
+      date: "September 17, 20xx",
+      img: baseURL + "/publicaciones/articulos/Impacto-de-X-sobre-y/img/articulo-1.png",
+      link: baseURL + "/publicaciones/articulos/Impacto-de-X-sobre-y/"
     },
     // Agrega más post aquí
   ];
