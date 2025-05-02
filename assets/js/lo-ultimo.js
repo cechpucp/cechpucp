@@ -11,7 +11,7 @@ const recentPosts = [
     {
       title: "Preludio a la Revolución",
       date: "Junio 09, 2023",
-      img: baseURL + "/publicaciones/reseñas/Prelude-to-Revolution/img/ensayo-1.png",
+      img: baseURL + "/publicaciones/reseñas/Prelude-to-Revolution/img/reseñas-1.png",
       link: baseURL + "/publicaciones/reseñas/Prelude-to-Revolution/"
     },
     {
