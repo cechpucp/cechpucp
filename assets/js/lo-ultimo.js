@@ -17,8 +17,8 @@ const recentPosts = [
     {
       title: "Boletín CECH - Edición N°1",
       date: "August 01, 2021",
-      img: baseURL + "/publicaciones/boletines/img/boletin-1.png",
-      link: baseURL + "/publicaciones/boletines/"
+      img: baseURL + "/publicaciones/boletines/Edicion-001/img/boletin-1.png",
+      link: baseURL + "/publicaciones/boletines/Edicion-001/"
     },
     {
       title: "How China became Capitalist",
