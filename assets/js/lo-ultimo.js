@@ -3,6 +3,12 @@ const baseURL = "/cechpucp";
 
 const recentPosts = [
     {
+      title: "Optimización del TLC Perú-China",
+      date: "Agosto 18, 2025",
+      img: baseURL + "/eventos/Optimizacion-del-TLC/img/Esfera_web.png",
+      link: baseURL + "/eventos/Optimizacion-del-TLC/"
+    },
+    {
     title: "Convocatoria CECH 2025-1",
     date: "2025-03-14",
     img: baseURL + "/eventos/nueva-convocatoria-cech-economia-2025-1/img/BANNER-CONVOCATORIA-2025-1.jpg",
@@ -25,12 +31,6 @@ const recentPosts = [
       date: "June 09, 2023",
       img: baseURL + "/publicaciones/reseñas/Como-china-se-volvio-capitalista/img/reseña1.png",
       link: baseURL + "/publicaciones/reseñas/Como-china-se-volvio-capitalista/"
-    },
-    {
-      title: "Impacto de X sobre y: Un enfóque econométrico",
-      date: "September 17, 20xx",
-      img: baseURL + "/publicaciones/articulos/Impacto-de-X-sobre-y/img/articulo-1.png",
-      link: baseURL + "/publicaciones/articulos/Impacto-de-X-sobre-y/"
     },
     // Agrega más post aquí
   ];
