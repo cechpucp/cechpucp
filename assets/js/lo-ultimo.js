@@ -4,7 +4,7 @@ const baseURL = "/cechpucp";
 const recentPosts = [
     {
       title: "Optimización del TLC Perú-China",
-      date: "Agosto 18, 2025",
+      date: "2025-08-18",
       img: baseURL + "/eventos/Optimizacion-del-TLC/img/Esfera_web.png",
       link: baseURL + "/eventos/Optimizacion-del-TLC/"
     },
